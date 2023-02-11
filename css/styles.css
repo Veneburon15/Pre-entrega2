@@ -1,0 +1,152 @@
+/* UNIVERSAL */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+li{
+    list-style-type: none;
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #F24C00;
+}
+
+html {
+    margin: 1% 4%;
+}
+
+body {
+    background-color: #E7E7E7;
+}
+
+.logo{
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+}
+
+header {
+    display: inline-block;
+}
+
+h2 {
+    color: #33658A;
+    text-align: center;
+    margin-bottom: 7px;
+}
+
+h1 {
+    text-align: center;
+    color: #2176FF;
+    margin-bottom: 5px;
+}
+
+.h2center {
+    text-align: center;
+}
+
+.h2start {
+    text-align: start;
+}
+
+.footertext {
+    text-align: center;
+}
+
+h3 {
+    color: #F79824;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+div{
+    display: inline-block;
+    margin: 0px 20px;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 10px
+}
+
+/* INDEX */
+
+.index_section2 {
+    flex-direction: row;
+    display: flex block;
+    justify-content: center;
+    align-items: center;
+}
+
+.index-images_div {
+    justify-content: center;
+    align-items: center;
+}
+
+.indeximages {
+    width: 200px;
+    height: 200px;
+    margin: 10px 10px;
+}
+
+
+/* SANDWICHERIA */
+
+.sandwicheriaimages{
+    width: 175px;
+    height: 175px;
+    margin: 10px 75px;
+}
+
+.snd-text {
+    width: 300px;
+}
+
+/* ROTISERIA */
+
+.rotiseriaimages {
+    width: 200px;
+    height: 200px;
+    margin: 10px 10px;
+}
+
+.rot_menup {
+    text-align: start;
+}
+
+/* LUNCH SERVICE */
+
+.lunch_form {
+    margin: 10px 30px;
+    padding: 0px 300px;
+}
+
+/* CONTACTO */
+
+input {
+    display: block;
+}
+
+form {
+    display: block;
+    margin: 0px 80px;
+}
+
+textarea {
+    display: block;
+}
+
+.contact-sectionform {
+    margin: 10px;
+    padding: 10px 100px;
+}
+
+iframe {
+    width: 300px;
+    height: 300px;
+}
